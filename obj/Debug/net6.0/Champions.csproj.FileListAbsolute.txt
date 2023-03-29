@@ -1,0 +1,15 @@
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\Champions.csproj.AssemblyReference.cache
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\Champions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\Champions.AssemblyInfoInputs.cache
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\Champions.AssemblyInfo.cs
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\Champions.csproj.CoreCompileInputs.cache
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\bin\Debug\net6.0\Champions.exe
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\bin\Debug\net6.0\Champions.deps.json
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\bin\Debug\net6.0\Champions.runtimeconfig.json
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\bin\Debug\net6.0\Champions.dll
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\bin\Debug\net6.0\Champions.pdb
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\Champions.dll
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\refint\Champions.dll
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\Champions.pdb
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\Champions.genruntimeconfig.cache
+C:\Users\AlPoente - T3 - Prof\Desktop\programaçao\Champions\obj\Debug\net6.0\ref\Champions.dll
